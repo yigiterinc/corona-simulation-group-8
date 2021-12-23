@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/compilation/production/the-one/out/production/the-one/lib/DTNConsoleConnection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/compilation/production/the-one/out/production/the-one/lib/ECLA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
